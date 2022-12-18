@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"paepcke.de/gpstime/gpsfeed"
 	"paepcke.de/gpstime"
+	"paepcke.de/gpstime/gpsfeed"
 )
 
 const (
