@@ -25,8 +25,8 @@ const (
 	_sunset      = "export GPS_SUN_SET=\""
 	_noon        = "export GPS_SUN_NOON=\""
 	_daylight    = "export GPS_SUN_DAYLIGHT=\""
-	_optLongest  = "export GPS_SUN_OPT=\"[-=* LONGEST DAY OF THE YEAR *=-]"
-	_optShortest = "export GPS_SUN_OPT=\"[-=* SHORTEST DAY OF THE YEAR *=-]"
+	_optLongest  = "export GPS_SUN_OPT=\"[-=* LONGEST DAY OF THE YEAR *=-]\""
+	_optShortest = "export GPS_SUN_OPT=\"[-=* SHORTEST DAY OF THE YEAR *=-]\""
 	_report      = "[location] [adjust]"
 	_lf          = "\n"       // linefeed
 	_qlf         = "\"" + _lf // escaped doubleqoute [end] and linefeed
