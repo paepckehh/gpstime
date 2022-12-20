@@ -1,7 +1,7 @@
-// package gpsfeed 
+// package gpsfeed
 package gpsfeed
 
-// import 
+// import
 import (
 	"bufio"
 	"os"
