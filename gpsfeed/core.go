@@ -1,5 +1,7 @@
+// package gpsfeed ...
 package gpsfeed
 
+// import
 import (
 	"bufio"
 	"strings"
