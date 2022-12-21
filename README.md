@@ -5,6 +5,11 @@
 - 100% pure go, minimal(internal-only) imports
 - use as app or api (see api.go)
 
+## Install 
+```
+go install paepcke.de/gpstime/cmd/gpstime@latest
+```
+
 # Showtime
 
 ## set time 
