@@ -1,16 +1,17 @@
-# Overview 
+# OVERVIEW
 
-- set local system time from usb gps dongle 
+- set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
 - 100% pure go, minimal(internal-only) imports
 - use as app or api (see api.go)
 
-## Install 
+# INSTALL
+
 ```
 go install paepcke.de/gpstime/cmd/gpstime@latest
 ```
 
-# Showtime
+# SHOWTIME
 
 ## set time 
 ``` Shell 
@@ -36,3 +37,7 @@ export GPS_SUN_SET="19:33:42"
 export GPS_SUN_NOON="11:17:24"
 export GPS_SUN_DAYLIGHT="16h31m40s"
 ```
+
+# CONTRIBUTION
+
+Yes, Please! PRs Welcome! 
