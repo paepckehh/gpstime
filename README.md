@@ -2,6 +2,9 @@
 
 - set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
+- focus on embedded systems, enviromental friendly systems
+- focus on low energy use and secure and relyable operation
+- not the right choice for sub second critical applications (!)
 - 100% pure go, minimal(internal-only) imports
 - use as app or api (see api.go)
 
