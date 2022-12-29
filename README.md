@@ -14,6 +14,10 @@
 go install paepcke.de/gpstime/cmd/gpstime@latest
 ```
 
+# DOWNLOAD (prebuild)
+
+[github.com/paepckehh/gpstime/releases](https://github.com/paepckehh/gpstime/releases)
+
 # SHOWTIME
 
 ## set time 
