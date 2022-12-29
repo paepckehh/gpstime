@@ -1,5 +1,6 @@
 # OVERVIEW
 
+- needs go1.20rc (sorry)
 - set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
 - focus on embedded systems, environmental friendly systems
