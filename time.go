@@ -46,7 +46,7 @@ func checkSetClock(dev *gpsfeed.GpsDevice) {
 		dev.ErrCount.Store(0)
 		time.Sleep(time.Duration(delay) * time.Second)
 	}
-	dev.Global.Done() // currently unreachable
+	// unreachable dev.Global.Done()
 }
 
 // CheckSetClockOnce reads raw GPS NEMEA $GP sentences from device and adjusts the local system time and exits when successful

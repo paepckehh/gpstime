@@ -48,7 +48,7 @@ func writeLocationFile(dev *gpsfeed.GpsDevice) {
 		}
 		time.Sleep(time.Duration(delay) * time.Second)
 	}
-	dev.Global.Done() // currently unreachable
+	// unreachable dev.Global.Done()
 }
 
 // writeLocaltionFileOnce exits after success
