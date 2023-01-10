@@ -1,6 +1,6 @@
 # OVERVIEW
 
-- needs go1.20rc (sorry)
+- needs go1.20 (currently:rc-status) to compile (sorry)
 - set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
 - focus on embedded systems, environmental friendly systems
@@ -45,6 +45,10 @@ export GPS_SUN_SET="19:33:42"
 export GPS_SUN_NOON="11:17:24"
 export GPS_SUN_DAYLIGHT="16h31m40s"
 ```
+
+# DOCS
+
+[pkg.go.dev/paepcke.de/gpstime](https://pkg.go.dev/paepcke.de/gpstime)
 
 # CONTRIBUTION
 
