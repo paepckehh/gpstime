@@ -1,7 +1,6 @@
 // package gpstime ...
 package gpstime
 
-// import
 import (
 	"time"
 
