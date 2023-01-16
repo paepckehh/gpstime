@@ -1,6 +1,8 @@
 # OVERVIEW
 [![Go Report Card](https://goreportcard.com/badge/paepcke.de/gpstime)](https://goreportcard.com/report/paepcke.de/gpstime)
 
+[paepche.de/gpstime](https://paepcke.de/gpstime/)
+
 - needs go1.20 (currently:rc-status) to compile (sorry)
 - set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
