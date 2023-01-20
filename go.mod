@@ -1,6 +1,6 @@
 module paepcke.de/gpstime
 
-go 1.20
+go 1.21
 
 require (
 	paepcke.de/airloctag v0.1.7
