@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	paepcke.de/airloctag v0.1.9
-	paepcke.de/daylight v0.1.9
+	paepcke.de/daylight v0.1.10
 )
 
 require (
