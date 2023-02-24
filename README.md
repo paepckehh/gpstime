@@ -1,7 +1,7 @@
 # OVERVIEW
 [![Go Reference](https://pkg.go.dev/badge/paepcke.de/gpstime.svg)](https://pkg.go.dev/paepcke.de/gpstime) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/gpstime)](https://goreportcard.com/report/paepcke.de/gpstime) [![Go Build](https://github.com/paepckehh/gpstime/actions/workflows/golang.yml/badge.svg)](https://github.com/paepckehh/gpstime/actions/workflows/golang.yml)
 
-[paepche.de/gpstime](https://paepcke.de/gpstime/)
+[paepcke.de/gpstime](https://paepcke.de/gpstime/)
 
 - needs go1.20 (currently:rc-status) to compile (sorry)
 - set local system time from usb gps dongle (nmea mode)
