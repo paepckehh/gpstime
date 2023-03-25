@@ -3,8 +3,8 @@ module paepcke.de/gpstime
 go 1.20
 
 require (
-	paepcke.de/airloctag v0.1.13
-	paepcke.de/daylight v0.1.14
+	paepcke.de/airloctag v0.1.14
+	paepcke.de/daylight v0.1.15
 )
 
 require (
