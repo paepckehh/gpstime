@@ -3,7 +3,6 @@
 
 [paepcke.de/gpstime](https://paepcke.de/gpstime/)
 
-- needs go1.20 (currently:rc-status) to compile (sorry)
 - set local system time from usb gps dongle (nmea mode)
 - set local site coord information from usb gps dongle 
 - focus on embedded systems, environmental friendly systems
